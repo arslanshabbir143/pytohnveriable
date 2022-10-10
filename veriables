@@ -1,0 +1,30 @@
+# it is an objects that contains values
+
+x = 5 #'x' is the veriable // integer veriable
+print(x)
+
+y = "My name is Arslan" #'y' is string veriable
+print(y)
+
+x= 15 # x's value is updated
+print(x)
+#____________________________
+#Types or class of veriables
+
+print(type(x))
+print(type(y))
+
+#Rules of assigning a veriable
+# 1. Veriable should contains only letters, numbers, or underscore. 
+# 2. Never start veriable with a number.
+# 3. Spaces are not allowed in veriables.
+# 4. Do not use functional keywords in veriables.
+# 5. Veriable name should be short and descriptive.
+# 6. Case Sensative (Lower case & upper case)
+
+tech_product = "Mouse, Oranges, Banana" # string veriable
+print(tech_product) #print veriable
+print(type(tech_product)) #to check type of veriable
+
+# del tech_product # to delete veriable
+print(tech_product)
